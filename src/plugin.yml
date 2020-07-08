@@ -1,0 +1,113 @@
+name: ApolloSyS
+description: Plugin For Apollo Network
+author: Ppeerapon
+main: Ppeerapon.ApolloSyS.Main
+version: 0.1
+commands:
+  Yorn:
+    description: FEEL THE SUN
+  SetSpawn:
+    usage: /<command> [player]
+    description: SetSpawn
+  Spawn:
+    usage: /<command> [player]
+    description: Spawn
+  heal:
+    usage: /<command> [player]
+    description: Heal your self or someone
+  feed:
+    usage: /<command> [player]
+    description: Feed your self or someone
+  God:
+    usage: /<command> [player]
+    description: God your self or someone
+  Fly:
+    usage: /<command> [player]
+    description: Fly to Everywhere
+  Invsee:
+    usage: /<command> <player>
+    description: Look other's inventory
+  Freeze:
+    usage: /<command> <player>
+    description: Freeze someone
+  Enderchest:
+    aliases: ec
+    usage: /<command> [player]
+    description:  Open ender chest
+  Repair:
+    aliases: fix
+    usage: /<command> [player]
+    description: Repair tools
+  Vanish:
+    aliases: v
+    usage: /<command> [player]
+    description: Windwalk
+  Mute:
+    usage: /<command> <player>
+    description: Mute someone
+  Unmute:
+    usage: /<command> <player>
+    description: Unmute someone
+  Jail:
+    usage: /<command> <player>
+    description: Jail someone
+  Unjail:
+    usage: /<command> <player>
+    description: Unjail someone
+  Setjail:
+    usage: /<command>
+    description: SetJail Location
+  Sethome:
+    usage: /<command>
+    description: SetHome Location
+  Home:
+    usage: /<command>
+    description: Warp tp home
+  Gamemode:
+    aliases: gm
+    usage: /<command> <gamemode> [player]
+    description: Change Gamemode
+  Nick:
+    aliases: nickname
+    usage: /<command>
+    description: Chang Name
+  Sun:
+    usage: /<command>
+    description: Change Wather
+  Rain:
+    usage: /<command>
+    description: Change Wather
+  Thunder:
+    usage: /<command>
+    description: Change Wather
+  Day:
+    usage: /<command>
+    description: Day
+  Noon:
+    usage: /<command>
+    description: Noon
+  Night:
+    usage: /<command>
+    description: Night
+  Midnight:
+    usage: /<command>
+    description: MidNight
+  Sleep:
+    usage: /<command>
+    description: Go to sleep
+  Suicide:
+    usage: /<command>
+    description: Suicide
+  Tptoggle:
+    usage: /<command>
+    description: ON/OFF TP
+  Teleport:
+    aliases: tp
+    usage: /<command>
+    description: Teleport
+  Fakeop:
+    usage: /<command> <player>
+    description: Prank
+  Getid:
+    usage: /<command>
+    description: Get item id
